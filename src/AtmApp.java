@@ -13,7 +13,10 @@ public class AtmApp {
         System.out.println("");
         //arz3
         System.out.println("");
-        if (true){}
+        if (true){
+            System.out.println();
+        }
+        //remote repoda değişiklik yaptım
 
 
 
