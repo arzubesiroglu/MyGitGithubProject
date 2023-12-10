@@ -12,7 +12,8 @@ public class AtmApp {
         //arz1
         System.out.println("");
         //arz3
-
+        System.out.println("");
+        if (true){}
 
 
 
